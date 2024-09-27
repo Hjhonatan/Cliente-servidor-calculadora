@@ -1,5 +1,4 @@
 # Cliente-servidor-calculadora
-# Calculadora Cliente-Servidor en Java
 
 Este proyecto implementa una calculadora básica con arquitectura cliente-servidor utilizando sockets en Java, y se desarrolla por medio de netbeans.
 
